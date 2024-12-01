@@ -1,5 +1,5 @@
- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dharanish&reversal=false&animation=fadeIn
- ####Computer Science Engineeering Student 
+(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dharanish&reversal=false&animation=fadeIn)
+ <h3>Computer science Engineering Student </h3>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=18FFD700&center=true&vCenter=true&width=435&lines=Welcome+to+My+Github+profile;Web++Developer;Open+source+enthusiast;AI+enthusiast;+Problem+Solver)](https://git.io/typing-svg)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharanish-sk&label=Profile%20views&color=0e75b6&style=flat" alt="dharanish-sk" /> </p>
 
