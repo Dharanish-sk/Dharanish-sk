@@ -39,10 +39,8 @@ I'm a **Computer Science Engineering student** from Tamil Nadu, India 🇮🇳 w
 | 🎓 **Education** | Computer Science Engineering |
 | 🌱 **Exploring** | AI / ML · Full Stack · Open Source |
 | 💬 **Ask me about** | React · Python · DSA · Node.js · APIs |
-| 🔭 **Currently building** | Full-stack web apps with React + Node.js |
-| 🤝 **Looking for** | Open-source collaborations |
-| ⚡ **Fun fact** | I debug better with lo-fi music playing 🎵 |
-| 📫 **Reach me** | dharanishselvarajk@gmail.com |
+ | 🤝 **Looking for** | Open-source collaborations |
+ | 📫 **Reach me** | dharanishselvarajk@gmail.com |
 
 </div>
 
